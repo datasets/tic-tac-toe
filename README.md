@@ -1,4 +1,4 @@
-This dataset contains endgame snapshots. 
+This dataset contains tic-tac-toe endgame snapshots. 
 First nine attributes are representing nine fields on tic-tac-toe board 
 and tenth is class attribute which contains information if x player won.  
 
