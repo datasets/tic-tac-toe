@@ -1,0 +1,84 @@
+{
+    "title": "Tic Tac Toe Endgame",
+    "resources": [
+        {
+            "mediatype": "text/csv",
+            "path": "data\\tic-tac-toe.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "missingValues": [
+                    ""
+                ],
+                "fields": [
+                    {
+                        "name": "TL",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "TM",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "TR",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ML",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "MM",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "MR",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "BL",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "BM",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "BR",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "class",
+                        "type": "boolean",
+                        "format": "default"
+                    }
+                ]
+            },
+            "format": "csv",
+            "encoding": "utf-8",
+            "name": "tic-tac-toe"
+        }
+    ],
+    "name": "tic-tac-toe-endgame",
+    "sources": [
+        {
+            "path": "https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame",
+            "title": "[UCI - Tic-Tac-Toe Endgame Data set"
+        }
+    ],
+    "licences": [
+        {
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "name": "odc-pddl",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ]
+}
