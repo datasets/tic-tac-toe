@@ -3,7 +3,7 @@
     "resources": [
         {
             "mediatype": "text/csv",
-            "path": "data\\tic-tac-toe.csv",
+            "path": "data/tic-tac-toe.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "missingValues": [
