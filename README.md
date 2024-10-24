@@ -12,15 +12,15 @@ Interestingly, this raw database gives a stripped-down decision tree algorithm (
 
 ### Attribute information
 
-* TL : top left square {x,o,b}
-* TM : top middle square {x,o,b}
-* TR : top right square {x,o,b}
-* ML : middle left square {x,o,b}
-* MM : middle middle square {x,o,b}
-* MR : middle right square {x,o,b}
-* BL : bottom left square {x,o,b}
-* BM : bottom middle square {x,o,b}
-* BR : bottom right square {x,o,b}
+* TL : top left square {"{x,o,b}"}
+* TM : top middle square {"{x,o,b}"}
+* TR : top right square {"{x,o,b}"}
+* ML : middle left square {"{x,o,b}"}
+* MM : middle middle square {"{x,o,b}"}
+* MR : middle right square {"{x,o,b}"}
+* BL : bottom left square {"{x,o,b}"}
+* BM : bottom middle square {"{x,o,b}"}
+* BR : bottom right square {"{x,o,b}"}
 * class : 
     * true: x won
     * false: x lost
