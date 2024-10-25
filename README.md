@@ -1,4 +1,4 @@
-<a href="https://datahub.io/core/tic-tac-toe"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+<a className="gh-badge" href="https://datahub.io/core/tic-tac-toe"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
 
 This dataset contains tic-tac-toe endgame snapshots. 
 First nine attributes are representing nine fields on tic-tac-toe board 
